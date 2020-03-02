@@ -1,0 +1,2 @@
+# gitex
+ a study responsitory
